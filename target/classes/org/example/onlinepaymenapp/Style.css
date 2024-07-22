@@ -1,0 +1,17 @@
+.root{
+
+}
+
+.button {
+    -fx-background-color: #444444;
+    -fx-text-fill: #FFFFFF;
+    -fx-padding: 10 10;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+.listProduct{
+    -fx-background-color: #EEEEE6;
+    -fx-padding: 20px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 5;
+}
